@@ -1,0 +1,209 @@
+review_id,product_id,product_name,star_rating,overall_score,overall_sentiment,contrast,aspect,aspect_score,aspect_sentiment,confidence,opinion_words,evidence
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,camera,5.7,positive,0.95,incredible,The camera on this phone is absolutely incredible.
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,camera,6.0,positive,0.8,sharp|crisp|stunning,"Photos are sharp, crisp and the night mode is stunning — easily the best I've used."
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,battery,-3.0,negative,0.9,terrible,"However, the battery life is terrible."
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,battery,-0.2,neutral,0.4,drains|fast,It drains so fast that I have to charge it twice a day.
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,performance,-0.2,neutral,0.4,drains|fast,It drains so fast that I have to charge it twice a day.
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,display,4.5,positive,0.75,vibrant|bright|love,"The display is vibrant and bright, which I love,"
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,battery,-1.5,negative,0.75,drain,that probably explains the battery drain.
+R001,P001,NovaTech X12 Pro,3,1.538,mixed,True,build_quality,1.0,positive,0.6,solid,Build quality feels premium and solid.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,display,4.4,positive,0.82,excellent|bright,The screen resolution is excellent and the display is really bright even in sunlight.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,display,2.0,positive,0.6,smooth|fast,Touch response is smooth and fast.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,performance,2.0,positive,0.6,smooth|fast,Touch response is smooth and fast.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,software,2.0,positive,0.6,smooth|fast,Touch response is smooth and fast.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,software,-0.6,negative,0.56,clean,Unfortunately the software has too much bloatware and the UI is not clean at all.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,software,-1.5,negative,0.75,annoying,There are annoying bugs that cause the phone to freeze occasionally.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,performance,1.0,positive,0.6,decent,Performance is decent for everyday tasks
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,performance,-1.5,negative,0.75,heating,gaming causes heavy heating.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,build_quality,-1.5,negative,0.75,heating,gaming causes heavy heating.
+R002,P001,NovaTech X12 Pro,3,0.63,mixed,True,battery,0.0,neutral,0.3,,Battery lasts about a day with moderate use which is acceptable.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,camera,1.2,positive,0.62,disappointed,I bought this specifically for the camera and I was not disappointed.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,camera,5.4,positive,0.87,sharp|accurate,The photos are exceptionally sharp with accurate colors.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,camera,1.0,positive,0.6,smooth,Video recording is smooth at 4K.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,display,1.0,positive,0.6,smooth,Video recording is smooth at 4K.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,software,1.0,positive,0.6,smooth,Video recording is smooth at 4K.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,camera,2.0,positive,0.8,impressive,The zoom capability is impressive.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,build_quality,1.0,positive,0.6,solid,Build quality is solid with a premium glass finish.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,display,4.0,positive,0.8,excellent|bright,The display has excellent color accuracy and is bright.
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,battery,0.8,positive,0.58,better,Battery could be better
+R003,P001,NovaTech X12 Pro,4,1.94,positive,True,price_value,2.0,positive,0.8,great,Overall great value.
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,performance,1.0,positive,0.6,fast,The performance starts fast
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,performance,0.0,neutral,0.3,,the processor heats up within 20 minutes of gaming.
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,camera,1.0,positive,0.6,good,Camera is good for everyday shots
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,battery,0.5,neutral,0.4,drains|fast,The battery drains extremely fast when the phone is hot.
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,performance,0.5,neutral,0.4,drains|fast,The battery drains extremely fast when the phone is hot.
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,software,-5.0,negative,0.85,crashes|frustrating,Software crashes randomly which is very frustrating.
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,build_quality,-0.8,negative,0.58,cheap,Build feels cheap for a phone at this price point.
+R004,P001,NovaTech X12 Pro,2,-0.45,mixed,False,price_value,-0.8,negative,0.58,cheap,Build feels cheap for a phone at this price point.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,camera,3.0,positive,0.9,brilliant,"As someone who loves photography, this phone is brilliant."
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,camera,2.0,positive,0.8,stunning,The camera captures stunning portraits with beautiful bokeh.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,camera,1.0,positive,0.6,clear,Low light shots are clear and noise-free.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,build_quality,1.0,positive,0.6,clear,Low light shots are clear and noise-free.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,audio,1.0,positive,0.6,clear,Low light shots are clear and noise-free.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,camera,6.0,positive,0.8,vibrant|accurate|perfect,The display colors are vibrant and accurate — perfect for editing photos.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,display,6.0,positive,0.8,vibrant|accurate|perfect,The display colors are vibrant and accurate — perfect for editing photos.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,software,1.0,positive,0.6,stable,Software is stable after the latest update.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,build_quality,3.0,positive,0.9,excellent,Build quality is excellent.
+R005,P001,NovaTech X12 Pro,5,2.3,mixed,False,battery,-1.0,negative,0.6,short,Only complaint is the battery life is short — I wish it lasted longer.
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,battery,1.0,positive,0.6,good,Everything about this phone is good except the battery.
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,camera,3.0,positive,0.75,great|bright,"The camera is great, display is bright, performance is smooth for daily use."
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,display,4.0,positive,0.633,great|bright|smooth,"The camera is great, display is bright, performance is smooth for daily use."
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,performance,4.0,positive,0.633,great|bright|smooth,"The camera is great, display is bright, performance is smooth for daily use."
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,software,4.0,positive,0.633,great|bright|smooth,"The camera is great, display is bright, performance is smooth for daily use."
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,battery,-3.0,negative,0.9,disaster,But the battery is a disaster.
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,battery,0.0,neutral,0.3,,It barely lasts 6 hours on a single charge.
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,battery,2.0,positive,0.6,fast|good,Fast charging is good
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,performance,2.0,positive,0.6,fast|good,Fast charging is good
+R006,P001,NovaTech X12 Pro,3,1.61,mixed,True,battery,-0.9,negative,0.59,recommend,Would not recommend if battery life matters to you.
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,audio,2.0,positive,0.6,clear|good,The speakers on this phone are surprisingly loud and clear with good bass.
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,audio,3.0,positive,0.9,excellent,Call quality is excellent.
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,camera,2.0,positive,0.8,impressive,The camera is impressive for the price.
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,price_value,2.0,positive,0.8,impressive,The camera is impressive for the price.
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,battery,0.0,neutral,0.3,,"Battery life is acceptable, lasts about a day."
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,display,2.0,positive,0.8,vibrant,Display is vibrant.
+R007,P001,NovaTech X12 Pro,4,1.571,positive,False,build_quality,0.0,neutral,0.3,,Build quality feels premium.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,software,2.0,positive,0.8,great,Before the update everything was great.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,performance,-2.0,negative,0.8,crashes,"After the latest software update, the phone lags constantly and crashes apps."
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,software,-2.0,negative,0.8,crashes,"After the latest software update, the phone lags constantly and crashes apps."
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,performance,-3.0,negative,0.9,terrible,Performance has become terrible.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,camera,-1.0,negative,0.6,grainy,The camera quality also degraded after the update — photos look grainy now.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,build_quality,-1.0,negative,0.6,grainy,The camera quality also degraded after the update — photos look grainy now.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,software,-1.0,negative,0.6,grainy,The camera quality also degraded after the update — photos look grainy now.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,battery,-1.5,negative,0.75,drain,Battery drain increased dramatically.
+R008,P001,NovaTech X12 Pro,1,-1.056,mixed,False,software,0.0,neutral,0.3,,Please rollback or fix the update.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,display,8.6,positive,0.887,stunning|vibrant|clear,The display is absolutely stunning — the most vibrant and clear screen I have ever seen.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,camera,6.0,positive,0.9,outstanding|incredible,Camera quality is outstanding with incredible detail in every shot.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,performance,1.0,positive,0.6,fast,Performance is blazing fast with no lag whatsoever.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,battery,3.0,positive,0.9,excellent,Battery life is excellent — easily lasts two full days.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,build_quality,1.8,positive,0.78,solid,Build quality is premium and the phone feels incredibly solid.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,display,2.0,positive,0.6,clean|smooth,Software is clean and smooth.
+R009,P002,Lumina S8 Ultra,5,3.486,positive,True,software,2.0,positive,0.6,clean|smooth,Software is clean and smooth.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,price_value,-1.0,negative,0.6,expensive,Yes it is expensive.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,performance,5.7,positive,0.95,outstanding,But the performance is absolutely outstanding.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,display,-0.5,neutral,0.4,smooth|heating,Gaming is perfectly smooth with zero heating issues.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,performance,-0.5,neutral,0.4,smooth|heating,Gaming is perfectly smooth with zero heating issues.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,software,-0.5,neutral,0.4,smooth|heating,Gaming is perfectly smooth with zero heating issues.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,display,4.0,positive,0.8,bright|excellent,The display is bright with excellent refresh rate.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,camera,3.0,positive,0.9,perfect,Camera captures perfect shots even in low light.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,build_quality,3.0,positive,0.9,perfect,Camera captures perfect shots even in low light.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,battery,2.0,positive,0.8,impressive,Battery life is impressive — I get through a full day with heavy use.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,build_quality,0.0,neutral,0.3,,Battery life is impressive — I get through a full day with heavy use.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,build_quality,0.0,neutral,0.3,,Build quality feels incredibly premium.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,software,1.0,positive,0.6,clean,Software is clean with no bloatware.
+R010,P002,Lumina S8 Ultra,5,1.308,mixed,True,price_value,0.8,positive,0.58,worth,Worth the price.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,camera,3.0,positive,0.9,brilliant,The camera is brilliant and the display is stunning.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,display,5.0,positive,0.85,brilliant|stunning,The camera is brilliant and the display is stunning.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,performance,2.0,positive,0.6,fast|reliable,Performance is fast and reliable.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,display,2.0,positive,0.6,smooth|clean,Software is smooth and clean.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,software,2.0,positive,0.6,smooth|clean,Software is smooth and clean.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,battery,1.0,positive,0.6,good,Battery life is good — lasts all day.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,build_quality,-2.0,negative,0.8,overpriced,However I feel the phone is overpriced for what it offers compared to competitors.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,price_value,-2.0,negative,0.8,overpriced,However I feel the phone is overpriced for what it offers compared to competitors.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,build_quality,3.0,positive,0.9,excellent,Build quality is excellent though.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,connectivity,4.0,positive,0.8,great|impressive,The connectivity is also great — strong wifi signal and bluetooth range is impressive.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,build_quality,-0.48,negative,0.548,worth,not worth the premium price.
+R011,P002,Lumina S8 Ultra,4,1.42,mixed,True,price_value,-0.48,negative,0.548,worth,not worth the premium price.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,audio,0.0,neutral,0.3,,The speakers on the Lumina S8 Ultra are phenomenal — best I have heard on any phone.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,audio,2.0,positive,0.8,crisp,Bass is deep and treble is crisp.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,audio,2.0,positive,0.8,great,Great for music and videos.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,display,0.0,neutral,0.3,,The display enhances the experience beautifully.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,camera,3.0,positive,0.75,sharp|accurate,Camera is sharp and accurate.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,battery,3.0,positive,0.9,excellent,Battery is excellent.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,display,1.8,positive,0.78,smooth,Performance is incredibly smooth.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,performance,1.8,positive,0.78,smooth,Performance is incredibly smooth.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,software,1.8,positive,0.78,smooth,Performance is incredibly smooth.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,build_quality,1.0,positive,0.6,solid,Build quality feels solid and premium.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,performance,4.0,positive,0.8,fast|excellent,Delivery was fast and packaging was excellent.
+R012,P002,Lumina S8 Ultra,5,2.033,positive,False,delivery_packaging,4.0,positive,0.8,fast|excellent,Delivery was fast and packaging was excellent.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,camera,0.0,neutral,0.3,,The camera on this phone is a complete game changer.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,performance,0.0,neutral,0.3,,The camera on this phone is a complete game changer.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,camera,10.5,positive,0.95,perfect|exceptional|clear,"Portrait mode is absolutely perfect, zoom quality is exceptional, and night shots are incredibly clear."
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,display,3.0,positive,0.75,stunning|accurate,Display is stunning with accurate colors.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,performance,0.0,neutral,0.3,,Performance handles heavy apps smoothly.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,build_quality,0.0,neutral,0.3,,Performance handles heavy apps smoothly.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,battery,0.0,neutral,0.3,,Battery lasts more than a day easily.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,build_quality,1.0,positive,0.6,solid,Build is solid and premium.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,performance,2.0,positive,0.6,reliable|fast,Wifi connectivity is reliable and fast.
+R013,P002,Lumina S8 Ultra,5,1.85,positive,True,connectivity,2.0,positive,0.6,reliable|fast,Wifi connectivity is reliable and fast.
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,software,2.0,positive,0.8,great,Everything about this phone is great except some minor software bugs.
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,camera,8.0,positive,0.867,excellent|outstanding|vibrant,"The performance is excellent, camera is outstanding, display is vibrant."
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,display,8.0,positive,0.867,excellent|outstanding|vibrant,"The performance is excellent, camera is outstanding, display is vibrant."
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,performance,6.0,positive,0.9,excellent|outstanding,"The performance is excellent, camera is outstanding, display is vibrant."
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,battery,2.0,positive,0.8,impressive,Battery life is impressive.
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,build_quality,0.0,neutral,0.3,,Build quality is premium.
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,software,-2.0,negative,0.8,crashes,However I noticed a few bugs in the UI — sometimes notifications are delayed and the settings app crashes.
+R014,P002,Lumina S8 Ultra,4,3.0,mixed,True,software,0.0,neutral,0.3,,Hoping a software update will fix these issues.
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,camera,6.0,positive,0.8,impressive|great|stunning,"The phone hardware is impressive — camera is great, display is stunning, performance is fast."
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,display,7.0,positive,0.775,impressive|great|stunning|fast,"The phone hardware is impressive — camera is great, display is stunning, performance is fast."
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,performance,5.0,positive,0.767,great|stunning|fast,"The phone hardware is impressive — camera is great, display is stunning, performance is fast."
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,connectivity,-3.0,negative,0.9,poor,However the wifi connectivity is very poor in my experience.
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,connectivity,-1.0,negative,0.6,short,Signal drops frequently and bluetooth range is disappointingly short.
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,build_quality,0.0,neutral,0.3,,For a premium phone this is unacceptable.
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,battery,1.0,positive,0.6,good,Battery and build quality are good.
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,build_quality,1.0,positive,0.6,good,Battery and build quality are good.
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,camera,0.0,neutral,0.3,,Camera and display make up for the connectivity issues
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,display,0.0,neutral,0.3,,Camera and display make up for the connectivity issues
+R015,P002,Lumina S8 Ultra,3,1.455,mixed,True,connectivity,0.0,neutral,0.3,,Camera and display make up for the connectivity issues
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,price_value,5.7,positive,0.95,brilliant,For the price this phone is absolutely brilliant.
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,build_quality,1.0,positive,0.6,decent,Build quality is decent for a budget phone.
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,price_value,1.0,positive,0.6,decent,Build quality is decent for a budget phone.
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,display,1.0,positive,0.6,smooth,"Performance is smooth for everyday tasks — calls, social media, YouTube."
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,performance,1.0,positive,0.6,smooth,"Performance is smooth for everyday tasks — calls, social media, YouTube."
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,software,1.0,positive,0.6,smooth,"Performance is smooth for everyday tasks — calls, social media, YouTube."
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,battery,3.0,positive,0.9,excellent,Battery life is excellent — easily lasts two days on a single charge.
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,camera,1.0,positive,0.6,decent,Camera is decent
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,camera,-1.8,negative,0.78,outstanding,not outstanding — acceptable for casual photos.
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,display,1.0,positive,0.6,bright,Display is bright enough outdoors.
+R016,P003,SwiftPhone 7,5,1.445,mixed,False,price_value,2.0,positive,0.8,great,Value for money is great.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,battery,3.0,positive,0.9,incredible,The battery life on this phone is incredible — I get nearly 3 days of moderate use.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,battery,2.0,positive,0.6,fast|good,Fast charging is also good.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,performance,2.0,positive,0.6,fast|good,Fast charging is also good.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,build_quality,1.0,positive,0.6,solid,Build quality is solid for a budget device.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,price_value,1.0,positive,0.6,solid,Build quality is solid for a budget device.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,performance,0.0,neutral,0.3,,Performance handles daily tasks smoothly.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,camera,-1.2,negative,0.62,great,Camera is not great for low light
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,build_quality,-1.2,negative,0.62,great,Camera is not great for low light
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,camera,1.0,positive,0.6,decent,daytime photos are decent.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,display,0.0,neutral,0.3,,Display could be brighter.
+R017,P003,SwiftPhone 7,4,0.827,mixed,False,price_value,1.5,positive,0.75,good,Overall very good value for money.
+R018,P003,SwiftPhone 7,3,-0.517,mixed,True,battery,1.8,positive,0.59,good|long,"Performance is good, battery lasts long, build is sturdy."
+R018,P003,SwiftPhone 7,3,-0.517,mixed,True,performance,1.8,positive,0.59,good|long,"Performance is good, battery lasts long, build is sturdy."
+R018,P003,SwiftPhone 7,3,-0.517,mixed,True,build_quality,1.8,positive,0.59,good|long,"Performance is good, battery lasts long, build is sturdy."
+R018,P003,SwiftPhone 7,3,-0.517,mixed,True,camera,-4.0,negative,0.633,poor|blurry|grainy,"But the camera quality is poor — photos are blurry and grainy, especially indoors."
+R018,P003,SwiftPhone 7,3,-0.517,mixed,True,display,-2.0,negative,0.6,dim|dull,The display is dim and dull compared to competitors.
+R018,P003,SwiftPhone 7,3,-0.517,mixed,True,audio,-2.5,negative,0.625,tinny|weak,Audio from speakers is tinny and weak.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,battery,4.0,positive,0.8,excellent|fast,Battery is excellent and charges fast.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,performance,4.0,positive,0.8,excellent|fast,Battery is excellent and charges fast.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,display,1.0,positive,0.6,smooth,Performance is smooth — no lag in daily use.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,performance,1.0,positive,0.6,smooth,Performance is smooth — no lag in daily use.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,software,1.0,positive,0.6,smooth,Performance is smooth — no lag in daily use.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,build_quality,1.0,positive,0.6,solid,Build feels solid.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,software,1.0,positive,0.6,clean,Software is clean and simple with no bloatware.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,camera,1.0,positive,0.6,good,Camera takes good photos in daylight
+R019,P003,SwiftPhone 7,5,1.8,positive,False,price_value,3.0,positive,0.9,outstanding,For the price this is outstanding value.
+R019,P003,SwiftPhone 7,5,1.8,positive,False,delivery_packaging,1.0,positive,0.6,good,Delivery was quick and packaging was good.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,battery,2.0,positive,0.6,impressive|cheap,The battery life is really impressive for such a cheap phone.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,price_value,2.0,positive,0.6,impressive|cheap,The battery life is really impressive for such a cheap phone.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,performance,0.0,neutral,0.3,,Performance is acceptable.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,build_quality,1.0,positive,0.6,decent,Build quality is decent.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,display,-1.0,negative,0.6,dull,However the display resolution is low and colors look dull.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,build_quality,-1.0,negative,0.6,dull,However the display resolution is low and colors look dull.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,camera,-1.0,negative,0.6,grainy,Camera also disappoints with grainy images.
+R020,P003,SwiftPhone 7,3,0.125,mixed,True,audio,-1.0,negative,0.6,weak,Audio quality from speakers is weak.
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,performance,-2.0,negative,0.8,poor,I expected poor performance from a budget phone
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,price_value,-2.0,negative,0.8,poor,I expected poor performance from a budget phone
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,performance,0.0,neutral,0.3,,this handles multitasking smoothly.
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,battery,2.0,positive,0.8,fantastic,Battery is fantastic — best in class for the price.
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,price_value,2.0,positive,0.8,fantastic,Battery is fantastic — best in class for the price.
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,build_quality,1.0,positive,0.6,solid,Build quality is surprisingly solid.
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,camera,0.0,neutral,0.3,,Camera is average
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,display,0.8,positive,0.58,better,Display could be better
+R021,P003,SwiftPhone 7,4,0.311,mixed,False,software,1.0,positive,0.6,stable,Software is stable.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,performance,0.0,neutral,0.3,,Performance lags badly with multiple apps open.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,camera,-5.0,negative,0.767,terrible|blurry|grainy,Camera quality is terrible — blurry and grainy in all conditions.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,display,-2.0,negative,0.6,dim|dull,Display is dim and dull.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,build_quality,-3.45,negative,0.772,cheap|flimsy,Build quality feels very cheap and flimsy.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,price_value,-3.45,negative,0.772,cheap|flimsy,Build quality feels very cheap and flimsy.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,battery,1.0,positive,0.6,decent,Only the battery is decent.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,software,-1.5,negative,0.75,annoying,Software has annoying bugs.
+R022,P003,SwiftPhone 7,1,-1.86,mixed,False,price_value,-0.48,negative,0.548,worth,Not worth the money.

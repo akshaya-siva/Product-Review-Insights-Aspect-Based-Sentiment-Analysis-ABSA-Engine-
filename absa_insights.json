@@ -1,0 +1,2297 @@
+{
+  "generated_at": "2026-03-04T11:31:01.930424",
+  "products": [
+    {
+      "product_id": "P001",
+      "product_name": "NovaTech X12 Pro",
+      "total_reviews": 8,
+      "overall_score": 1.01,
+      "avg_star_rating": 3.12,
+      "overall_sentiment": "positive",
+      "aspect_scores": {
+        "camera": 2.736,
+        "battery": -0.486,
+        "performance": 0.345,
+        "display": 3.487,
+        "build_quality": 0.338,
+        "software": -0.009,
+        "price_value": 1.067,
+        "audio": 2.0
+      },
+      "aspect_counts": {
+        "camera": 14,
+        "battery": 14,
+        "performance": 11,
+        "display": 8,
+        "build_quality": 8,
+        "software": 11,
+        "price_value": 3,
+        "audio": 3
+      },
+      "aspect_sentiments": {
+        "camera": "positive",
+        "battery": "negative",
+        "performance": "positive",
+        "display": "positive",
+        "build_quality": "positive",
+        "software": "neutral",
+        "price_value": "positive",
+        "audio": "positive"
+      },
+      "top_praised": [
+        "display",
+        "camera",
+        "audio"
+      ],
+      "top_criticized": [
+        "battery",
+        "software"
+      ],
+      "star_distribution": {
+        "1": 1,
+        "2": 1,
+        "3": 3,
+        "4": 2,
+        "5": 1
+      }
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Lumina S8 Ultra",
+      "total_reviews": 7,
+      "overall_score": 2.079,
+      "avg_star_rating": 4.43,
+      "overall_sentiment": "positive",
+      "aspect_scores": {
+        "display": 3.408,
+        "camera": 4.389,
+        "performance": 2.455,
+        "battery": 1.714,
+        "build_quality": 0.64,
+        "software": 0.787,
+        "price_value": -0.67,
+        "connectivity": 0.4,
+        "audio": 1.333,
+        "delivery_packaging": 4.0
+      },
+      "aspect_counts": {
+        "display": 12,
+        "camera": 9,
+        "performance": 11,
+        "battery": 7,
+        "build_quality": 13,
+        "software": 8,
+        "price_value": 4,
+        "connectivity": 5,
+        "audio": 3,
+        "delivery_packaging": 1
+      },
+      "aspect_sentiments": {
+        "display": "positive",
+        "camera": "positive",
+        "performance": "positive",
+        "battery": "positive",
+        "build_quality": "positive",
+        "software": "positive",
+        "price_value": "negative",
+        "connectivity": "positive",
+        "audio": "positive",
+        "delivery_packaging": "positive"
+      },
+      "top_praised": [
+        "camera",
+        "delivery_packaging",
+        "display"
+      ],
+      "top_criticized": [
+        "price_value"
+      ],
+      "star_distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 4
+      }
+    },
+    {
+      "product_id": "P003",
+      "product_name": "SwiftPhone 7",
+      "total_reviews": 7,
+      "overall_score": 0.304,
+      "avg_star_rating": 3.57,
+      "overall_sentiment": "mixed",
+      "aspect_scores": {
+        "price_value": 1.115,
+        "build_quality": 0.128,
+        "display": -0.15,
+        "performance": 0.78,
+        "software": 0.5,
+        "battery": 2.35,
+        "camera": -1.111,
+        "audio": -1.75,
+        "delivery_packaging": 1.0
+      },
+      "aspect_counts": {
+        "price_value": 11,
+        "build_quality": 9,
+        "display": 8,
+        "performance": 10,
+        "software": 5,
+        "battery": 8,
+        "camera": 9,
+        "audio": 2,
+        "delivery_packaging": 1
+      },
+      "aspect_sentiments": {
+        "price_value": "positive",
+        "build_quality": "neutral",
+        "display": "neutral",
+        "performance": "positive",
+        "software": "positive",
+        "battery": "positive",
+        "camera": "negative",
+        "audio": "negative",
+        "delivery_packaging": "positive"
+      },
+      "top_praised": [
+        "battery",
+        "price_value",
+        "delivery_packaging"
+      ],
+      "top_criticized": [
+        "audio",
+        "camera",
+        "display"
+      ],
+      "star_distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 2
+      }
+    }
+  ],
+  "review_analyses": [
+    {
+      "review_id": "R001",
+      "product_id": "P001",
+      "star_rating": 3,
+      "overall_score": 1.538,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 5.7,
+          "opinions": [
+            "incredible"
+          ],
+          "evidence": "The camera on this phone is absolutely incredible."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 6.0,
+          "opinions": [
+            "sharp",
+            "crisp",
+            "stunning"
+          ],
+          "evidence": "Photos are sharp, crisp and the night mode is stunning — easily the best I've used."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "negative",
+          "score": -3.0,
+          "opinions": [
+            "terrible"
+          ],
+          "evidence": "However, the battery life is terrible."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "neutral",
+          "score": -0.2,
+          "opinions": [
+            "drains",
+            "fast"
+          ],
+          "evidence": "It drains so fast that I have to charge it twice a day."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": -0.2,
+          "opinions": [
+            "drains",
+            "fast"
+          ],
+          "evidence": "It drains so fast that I have to charge it twice a day."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 4.5,
+          "opinions": [
+            "vibrant",
+            "bright",
+            "love"
+          ],
+          "evidence": "The display is vibrant and bright, which I love,"
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "negative",
+          "score": -1.5,
+          "opinions": [
+            "drain"
+          ],
+          "evidence": "that probably explains the battery drain."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality feels premium and solid."
+        }
+      ]
+    },
+    {
+      "review_id": "R002",
+      "product_id": "P001",
+      "star_rating": 3,
+      "overall_score": 0.63,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 4.4,
+          "opinions": [
+            "excellent",
+            "bright"
+          ],
+          "evidence": "The screen resolution is excellent and the display is really bright even in sunlight."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "smooth",
+            "fast"
+          ],
+          "evidence": "Touch response is smooth and fast."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "smooth",
+            "fast"
+          ],
+          "evidence": "Touch response is smooth and fast."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "smooth",
+            "fast"
+          ],
+          "evidence": "Touch response is smooth and fast."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -0.6,
+          "opinions": [
+            "clean"
+          ],
+          "evidence": "Unfortunately the software has too much bloatware and the UI is not clean at all."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -1.5,
+          "opinions": [
+            "annoying"
+          ],
+          "evidence": "There are annoying bugs that cause the phone to freeze occasionally."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "Performance is decent for everyday tasks"
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "negative",
+          "score": -1.5,
+          "opinions": [
+            "heating"
+          ],
+          "evidence": "gaming causes heavy heating."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -1.5,
+          "opinions": [
+            "heating"
+          ],
+          "evidence": "gaming causes heavy heating."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Battery lasts about a day with moderate use which is acceptable."
+        }
+      ]
+    },
+    {
+      "review_id": "R003",
+      "product_id": "P001",
+      "star_rating": 4,
+      "overall_score": 1.94,
+      "sentiment": "positive",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.2,
+          "opinions": [
+            "disappointed"
+          ],
+          "evidence": "I bought this specifically for the camera and I was not disappointed."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 5.4,
+          "opinions": [
+            "sharp",
+            "accurate"
+          ],
+          "evidence": "The photos are exceptionally sharp with accurate colors."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Video recording is smooth at 4K."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Video recording is smooth at 4K."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Video recording is smooth at 4K."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive"
+          ],
+          "evidence": "The zoom capability is impressive."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality is solid with a premium glass finish."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "excellent",
+            "bright"
+          ],
+          "evidence": "The display has excellent color accuracy and is bright."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 0.8,
+          "opinions": [
+            "better"
+          ],
+          "evidence": "Battery could be better"
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Overall great value."
+        }
+      ]
+    },
+    {
+      "review_id": "R004",
+      "product_id": "P001",
+      "star_rating": 2,
+      "overall_score": -0.45,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "fast"
+          ],
+          "evidence": "The performance starts fast"
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "the processor heats up within 20 minutes of gaming."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Camera is good for everyday shots"
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "neutral",
+          "score": 0.5,
+          "opinions": [
+            "drains",
+            "fast"
+          ],
+          "evidence": "The battery drains extremely fast when the phone is hot."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.5,
+          "opinions": [
+            "drains",
+            "fast"
+          ],
+          "evidence": "The battery drains extremely fast when the phone is hot."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -5.0,
+          "opinions": [
+            "crashes",
+            "frustrating"
+          ],
+          "evidence": "Software crashes randomly which is very frustrating."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -0.8,
+          "opinions": [
+            "cheap"
+          ],
+          "evidence": "Build feels cheap for a phone at this price point."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -0.8,
+          "opinions": [
+            "cheap"
+          ],
+          "evidence": "Build feels cheap for a phone at this price point."
+        }
+      ]
+    },
+    {
+      "review_id": "R005",
+      "product_id": "P001",
+      "star_rating": 5,
+      "overall_score": 2.3,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "brilliant"
+          ],
+          "evidence": "As someone who loves photography, this phone is brilliant."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "stunning"
+          ],
+          "evidence": "The camera captures stunning portraits with beautiful bokeh."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "clear"
+          ],
+          "evidence": "Low light shots are clear and noise-free."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "clear"
+          ],
+          "evidence": "Low light shots are clear and noise-free."
+        },
+        {
+          "aspect": "audio",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "clear"
+          ],
+          "evidence": "Low light shots are clear and noise-free."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 6.0,
+          "opinions": [
+            "vibrant",
+            "accurate",
+            "perfect"
+          ],
+          "evidence": "The display colors are vibrant and accurate — perfect for editing photos."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 6.0,
+          "opinions": [
+            "vibrant",
+            "accurate",
+            "perfect"
+          ],
+          "evidence": "The display colors are vibrant and accurate — perfect for editing photos."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "stable"
+          ],
+          "evidence": "Software is stable after the latest update."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "excellent"
+          ],
+          "evidence": "Build quality is excellent."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "short"
+          ],
+          "evidence": "Only complaint is the battery life is short — I wish it lasted longer."
+        }
+      ]
+    },
+    {
+      "review_id": "R006",
+      "product_id": "P001",
+      "star_rating": 3,
+      "overall_score": 1.61,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Everything about this phone is good except the battery."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "great",
+            "bright"
+          ],
+          "evidence": "The camera is great, display is bright, performance is smooth for daily use."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "great",
+            "bright",
+            "smooth"
+          ],
+          "evidence": "The camera is great, display is bright, performance is smooth for daily use."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "great",
+            "bright",
+            "smooth"
+          ],
+          "evidence": "The camera is great, display is bright, performance is smooth for daily use."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "great",
+            "bright",
+            "smooth"
+          ],
+          "evidence": "The camera is great, display is bright, performance is smooth for daily use."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "negative",
+          "score": -3.0,
+          "opinions": [
+            "disaster"
+          ],
+          "evidence": "But the battery is a disaster."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "It barely lasts 6 hours on a single charge."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fast",
+            "good"
+          ],
+          "evidence": "Fast charging is good"
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fast",
+            "good"
+          ],
+          "evidence": "Fast charging is good"
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "negative",
+          "score": -0.9,
+          "opinions": [
+            "recommend"
+          ],
+          "evidence": "Would not recommend if battery life matters to you."
+        }
+      ]
+    },
+    {
+      "review_id": "R007",
+      "product_id": "P001",
+      "star_rating": 4,
+      "overall_score": 1.571,
+      "sentiment": "positive",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "audio",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "clear",
+            "good"
+          ],
+          "evidence": "The speakers on this phone are surprisingly loud and clear with good bass."
+        },
+        {
+          "aspect": "audio",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "excellent"
+          ],
+          "evidence": "Call quality is excellent."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive"
+          ],
+          "evidence": "The camera is impressive for the price."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive"
+          ],
+          "evidence": "The camera is impressive for the price."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Battery life is acceptable, lasts about a day."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "vibrant"
+          ],
+          "evidence": "Display is vibrant."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Build quality feels premium."
+        }
+      ]
+    },
+    {
+      "review_id": "R008",
+      "product_id": "P001",
+      "star_rating": 1,
+      "overall_score": -1.056,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Before the update everything was great."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "crashes"
+          ],
+          "evidence": "After the latest software update, the phone lags constantly and crashes apps."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "crashes"
+          ],
+          "evidence": "After the latest software update, the phone lags constantly and crashes apps."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "negative",
+          "score": -3.0,
+          "opinions": [
+            "terrible"
+          ],
+          "evidence": "Performance has become terrible."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "grainy"
+          ],
+          "evidence": "The camera quality also degraded after the update — photos look grainy now."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "grainy"
+          ],
+          "evidence": "The camera quality also degraded after the update — photos look grainy now."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "grainy"
+          ],
+          "evidence": "The camera quality also degraded after the update — photos look grainy now."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "negative",
+          "score": -1.5,
+          "opinions": [
+            "drain"
+          ],
+          "evidence": "Battery drain increased dramatically."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Please rollback or fix the update."
+        }
+      ]
+    },
+    {
+      "review_id": "R009",
+      "product_id": "P002",
+      "star_rating": 5,
+      "overall_score": 3.486,
+      "sentiment": "positive",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 8.6,
+          "opinions": [
+            "stunning",
+            "vibrant",
+            "clear"
+          ],
+          "evidence": "The display is absolutely stunning — the most vibrant and clear screen I have ever seen."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 6.0,
+          "opinions": [
+            "outstanding",
+            "incredible"
+          ],
+          "evidence": "Camera quality is outstanding with incredible detail in every shot."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "fast"
+          ],
+          "evidence": "Performance is blazing fast with no lag whatsoever."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "excellent"
+          ],
+          "evidence": "Battery life is excellent — easily lasts two full days."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality is premium and the phone feels incredibly solid."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "clean",
+            "smooth"
+          ],
+          "evidence": "Software is clean and smooth."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "clean",
+            "smooth"
+          ],
+          "evidence": "Software is clean and smooth."
+        }
+      ]
+    },
+    {
+      "review_id": "R010",
+      "product_id": "P002",
+      "star_rating": 5,
+      "overall_score": 1.308,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "expensive"
+          ],
+          "evidence": "Yes it is expensive."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 5.7,
+          "opinions": [
+            "outstanding"
+          ],
+          "evidence": "But the performance is absolutely outstanding."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "neutral",
+          "score": -0.5,
+          "opinions": [
+            "smooth",
+            "heating"
+          ],
+          "evidence": "Gaming is perfectly smooth with zero heating issues."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": -0.5,
+          "opinions": [
+            "smooth",
+            "heating"
+          ],
+          "evidence": "Gaming is perfectly smooth with zero heating issues."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "neutral",
+          "score": -0.5,
+          "opinions": [
+            "smooth",
+            "heating"
+          ],
+          "evidence": "Gaming is perfectly smooth with zero heating issues."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "bright",
+            "excellent"
+          ],
+          "evidence": "The display is bright with excellent refresh rate."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "perfect"
+          ],
+          "evidence": "Camera captures perfect shots even in low light."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "perfect"
+          ],
+          "evidence": "Camera captures perfect shots even in low light."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive"
+          ],
+          "evidence": "Battery life is impressive — I get through a full day with heavy use."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Battery life is impressive — I get through a full day with heavy use."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Build quality feels incredibly premium."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "clean"
+          ],
+          "evidence": "Software is clean with no bloatware."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 0.8,
+          "opinions": [
+            "worth"
+          ],
+          "evidence": "Worth the price."
+        }
+      ]
+    },
+    {
+      "review_id": "R011",
+      "product_id": "P002",
+      "star_rating": 4,
+      "overall_score": 1.42,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "brilliant"
+          ],
+          "evidence": "The camera is brilliant and the display is stunning."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 5.0,
+          "opinions": [
+            "brilliant",
+            "stunning"
+          ],
+          "evidence": "The camera is brilliant and the display is stunning."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fast",
+            "reliable"
+          ],
+          "evidence": "Performance is fast and reliable."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "smooth",
+            "clean"
+          ],
+          "evidence": "Software is smooth and clean."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "smooth",
+            "clean"
+          ],
+          "evidence": "Software is smooth and clean."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Battery life is good — lasts all day."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "overpriced"
+          ],
+          "evidence": "However I feel the phone is overpriced for what it offers compared to competitors."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "overpriced"
+          ],
+          "evidence": "However I feel the phone is overpriced for what it offers compared to competitors."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "excellent"
+          ],
+          "evidence": "Build quality is excellent though."
+        },
+        {
+          "aspect": "connectivity",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "great",
+            "impressive"
+          ],
+          "evidence": "The connectivity is also great — strong wifi signal and bluetooth range is impressive."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -0.48,
+          "opinions": [
+            "worth"
+          ],
+          "evidence": "not worth the premium price."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -0.48,
+          "opinions": [
+            "worth"
+          ],
+          "evidence": "not worth the premium price."
+        }
+      ]
+    },
+    {
+      "review_id": "R012",
+      "product_id": "P002",
+      "star_rating": 5,
+      "overall_score": 2.033,
+      "sentiment": "positive",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "audio",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "The speakers on the Lumina S8 Ultra are phenomenal — best I have heard on any phone."
+        },
+        {
+          "aspect": "audio",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "crisp"
+          ],
+          "evidence": "Bass is deep and treble is crisp."
+        },
+        {
+          "aspect": "audio",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Great for music and videos."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "The display enhances the experience beautifully."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "sharp",
+            "accurate"
+          ],
+          "evidence": "Camera is sharp and accurate."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "excellent"
+          ],
+          "evidence": "Battery is excellent."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is incredibly smooth."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is incredibly smooth."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is incredibly smooth."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality feels solid and premium."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "fast",
+            "excellent"
+          ],
+          "evidence": "Delivery was fast and packaging was excellent."
+        },
+        {
+          "aspect": "delivery_packaging",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "fast",
+            "excellent"
+          ],
+          "evidence": "Delivery was fast and packaging was excellent."
+        }
+      ]
+    },
+    {
+      "review_id": "R013",
+      "product_id": "P002",
+      "star_rating": 5,
+      "overall_score": 1.85,
+      "sentiment": "positive",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "camera",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "The camera on this phone is a complete game changer."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "The camera on this phone is a complete game changer."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 10.5,
+          "opinions": [
+            "perfect",
+            "exceptional",
+            "clear"
+          ],
+          "evidence": "Portrait mode is absolutely perfect, zoom quality is exceptional, and night shots are incredibly clear."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "stunning",
+            "accurate"
+          ],
+          "evidence": "Display is stunning with accurate colors."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Performance handles heavy apps smoothly."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Performance handles heavy apps smoothly."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Battery lasts more than a day easily."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build is solid and premium."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "reliable",
+            "fast"
+          ],
+          "evidence": "Wifi connectivity is reliable and fast."
+        },
+        {
+          "aspect": "connectivity",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "reliable",
+            "fast"
+          ],
+          "evidence": "Wifi connectivity is reliable and fast."
+        }
+      ]
+    },
+    {
+      "review_id": "R014",
+      "product_id": "P002",
+      "star_rating": 4,
+      "overall_score": 3.0,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Everything about this phone is great except some minor software bugs."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 8.0,
+          "opinions": [
+            "excellent",
+            "outstanding",
+            "vibrant"
+          ],
+          "evidence": "The performance is excellent, camera is outstanding, display is vibrant."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 8.0,
+          "opinions": [
+            "excellent",
+            "outstanding",
+            "vibrant"
+          ],
+          "evidence": "The performance is excellent, camera is outstanding, display is vibrant."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 6.0,
+          "opinions": [
+            "excellent",
+            "outstanding"
+          ],
+          "evidence": "The performance is excellent, camera is outstanding, display is vibrant."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive"
+          ],
+          "evidence": "Battery life is impressive."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Build quality is premium."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "crashes"
+          ],
+          "evidence": "However I noticed a few bugs in the UI — sometimes notifications are delayed and the settings app crashes."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Hoping a software update will fix these issues."
+        }
+      ]
+    },
+    {
+      "review_id": "R015",
+      "product_id": "P002",
+      "star_rating": 3,
+      "overall_score": 1.455,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 6.0,
+          "opinions": [
+            "impressive",
+            "great",
+            "stunning"
+          ],
+          "evidence": "The phone hardware is impressive — camera is great, display is stunning, performance is fast."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 7.0,
+          "opinions": [
+            "impressive",
+            "great",
+            "stunning",
+            "fast"
+          ],
+          "evidence": "The phone hardware is impressive — camera is great, display is stunning, performance is fast."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 5.0,
+          "opinions": [
+            "great",
+            "stunning",
+            "fast"
+          ],
+          "evidence": "The phone hardware is impressive — camera is great, display is stunning, performance is fast."
+        },
+        {
+          "aspect": "connectivity",
+          "sentiment": "negative",
+          "score": -3.0,
+          "opinions": [
+            "poor"
+          ],
+          "evidence": "However the wifi connectivity is very poor in my experience."
+        },
+        {
+          "aspect": "connectivity",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "short"
+          ],
+          "evidence": "Signal drops frequently and bluetooth range is disappointingly short."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "For a premium phone this is unacceptable."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Battery and build quality are good."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Battery and build quality are good."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Camera and display make up for the connectivity issues"
+        },
+        {
+          "aspect": "display",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Camera and display make up for the connectivity issues"
+        },
+        {
+          "aspect": "connectivity",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Camera and display make up for the connectivity issues"
+        }
+      ]
+    },
+    {
+      "review_id": "R016",
+      "product_id": "P003",
+      "star_rating": 5,
+      "overall_score": 1.445,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 5.7,
+          "opinions": [
+            "brilliant"
+          ],
+          "evidence": "For the price this phone is absolutely brilliant."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "Build quality is decent for a budget phone."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "Build quality is decent for a budget phone."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is smooth for everyday tasks — calls, social media, YouTube."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is smooth for everyday tasks — calls, social media, YouTube."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is smooth for everyday tasks — calls, social media, YouTube."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "excellent"
+          ],
+          "evidence": "Battery life is excellent — easily lasts two days on a single charge."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "Camera is decent"
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "negative",
+          "score": -1.8,
+          "opinions": [
+            "outstanding"
+          ],
+          "evidence": "not outstanding — acceptable for casual photos."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "bright"
+          ],
+          "evidence": "Display is bright enough outdoors."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Value for money is great."
+        }
+      ]
+    },
+    {
+      "review_id": "R017",
+      "product_id": "P003",
+      "star_rating": 4,
+      "overall_score": 0.827,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "incredible"
+          ],
+          "evidence": "The battery life on this phone is incredible — I get nearly 3 days of moderate use."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fast",
+            "good"
+          ],
+          "evidence": "Fast charging is also good."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fast",
+            "good"
+          ],
+          "evidence": "Fast charging is also good."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality is solid for a budget device."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality is solid for a budget device."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Performance handles daily tasks smoothly."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "negative",
+          "score": -1.2,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Camera is not great for low light"
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -1.2,
+          "opinions": [
+            "great"
+          ],
+          "evidence": "Camera is not great for low light"
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "daytime photos are decent."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Display could be brighter."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 1.5,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Overall very good value for money."
+        }
+      ]
+    },
+    {
+      "review_id": "R018",
+      "product_id": "P003",
+      "star_rating": 3,
+      "overall_score": -0.517,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "good",
+            "long"
+          ],
+          "evidence": "Performance is good, battery lasts long, build is sturdy."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "good",
+            "long"
+          ],
+          "evidence": "Performance is good, battery lasts long, build is sturdy."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.8,
+          "opinions": [
+            "good",
+            "long"
+          ],
+          "evidence": "Performance is good, battery lasts long, build is sturdy."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "negative",
+          "score": -4.0,
+          "opinions": [
+            "poor",
+            "blurry",
+            "grainy"
+          ],
+          "evidence": "But the camera quality is poor — photos are blurry and grainy, especially indoors."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "dim",
+            "dull"
+          ],
+          "evidence": "The display is dim and dull compared to competitors."
+        },
+        {
+          "aspect": "audio",
+          "sentiment": "negative",
+          "score": -2.5,
+          "opinions": [
+            "tinny",
+            "weak"
+          ],
+          "evidence": "Audio from speakers is tinny and weak."
+        }
+      ]
+    },
+    {
+      "review_id": "R019",
+      "product_id": "P003",
+      "star_rating": 5,
+      "overall_score": 1.8,
+      "sentiment": "positive",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "excellent",
+            "fast"
+          ],
+          "evidence": "Battery is excellent and charges fast."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 4.0,
+          "opinions": [
+            "excellent",
+            "fast"
+          ],
+          "evidence": "Battery is excellent and charges fast."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is smooth — no lag in daily use."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is smooth — no lag in daily use."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "smooth"
+          ],
+          "evidence": "Performance is smooth — no lag in daily use."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build feels solid."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "clean"
+          ],
+          "evidence": "Software is clean and simple with no bloatware."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Camera takes good photos in daylight"
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 3.0,
+          "opinions": [
+            "outstanding"
+          ],
+          "evidence": "For the price this is outstanding value."
+        },
+        {
+          "aspect": "delivery_packaging",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "good"
+          ],
+          "evidence": "Delivery was quick and packaging was good."
+        }
+      ]
+    },
+    {
+      "review_id": "R020",
+      "product_id": "P003",
+      "star_rating": 3,
+      "overall_score": 0.125,
+      "sentiment": "mixed",
+      "contrast": true,
+      "aspects": [
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive",
+            "cheap"
+          ],
+          "evidence": "The battery life is really impressive for such a cheap phone."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "impressive",
+            "cheap"
+          ],
+          "evidence": "The battery life is really impressive for such a cheap phone."
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Performance is acceptable."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "Build quality is decent."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "dull"
+          ],
+          "evidence": "However the display resolution is low and colors look dull."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "dull"
+          ],
+          "evidence": "However the display resolution is low and colors look dull."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "grainy"
+          ],
+          "evidence": "Camera also disappoints with grainy images."
+        },
+        {
+          "aspect": "audio",
+          "sentiment": "negative",
+          "score": -1.0,
+          "opinions": [
+            "weak"
+          ],
+          "evidence": "Audio quality from speakers is weak."
+        }
+      ]
+    },
+    {
+      "review_id": "R021",
+      "product_id": "P003",
+      "star_rating": 4,
+      "overall_score": 0.311,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "performance",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "poor"
+          ],
+          "evidence": "I expected poor performance from a budget phone"
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "poor"
+          ],
+          "evidence": "I expected poor performance from a budget phone"
+        },
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "this handles multitasking smoothly."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fantastic"
+          ],
+          "evidence": "Battery is fantastic — best in class for the price."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "positive",
+          "score": 2.0,
+          "opinions": [
+            "fantastic"
+          ],
+          "evidence": "Battery is fantastic — best in class for the price."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "solid"
+          ],
+          "evidence": "Build quality is surprisingly solid."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Camera is average"
+        },
+        {
+          "aspect": "display",
+          "sentiment": "positive",
+          "score": 0.8,
+          "opinions": [
+            "better"
+          ],
+          "evidence": "Display could be better"
+        },
+        {
+          "aspect": "software",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "stable"
+          ],
+          "evidence": "Software is stable."
+        }
+      ]
+    },
+    {
+      "review_id": "R022",
+      "product_id": "P003",
+      "star_rating": 1,
+      "overall_score": -1.86,
+      "sentiment": "mixed",
+      "contrast": false,
+      "aspects": [
+        {
+          "aspect": "performance",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "opinions": [],
+          "evidence": "Performance lags badly with multiple apps open."
+        },
+        {
+          "aspect": "camera",
+          "sentiment": "negative",
+          "score": -5.0,
+          "opinions": [
+            "terrible",
+            "blurry",
+            "grainy"
+          ],
+          "evidence": "Camera quality is terrible — blurry and grainy in all conditions."
+        },
+        {
+          "aspect": "display",
+          "sentiment": "negative",
+          "score": -2.0,
+          "opinions": [
+            "dim",
+            "dull"
+          ],
+          "evidence": "Display is dim and dull."
+        },
+        {
+          "aspect": "build_quality",
+          "sentiment": "negative",
+          "score": -3.45,
+          "opinions": [
+            "cheap",
+            "flimsy"
+          ],
+          "evidence": "Build quality feels very cheap and flimsy."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -3.45,
+          "opinions": [
+            "cheap",
+            "flimsy"
+          ],
+          "evidence": "Build quality feels very cheap and flimsy."
+        },
+        {
+          "aspect": "battery",
+          "sentiment": "positive",
+          "score": 1.0,
+          "opinions": [
+            "decent"
+          ],
+          "evidence": "Only the battery is decent."
+        },
+        {
+          "aspect": "software",
+          "sentiment": "negative",
+          "score": -1.5,
+          "opinions": [
+            "annoying"
+          ],
+          "evidence": "Software has annoying bugs."
+        },
+        {
+          "aspect": "price_value",
+          "sentiment": "negative",
+          "score": -0.48,
+          "opinions": [
+            "worth"
+          ],
+          "evidence": "Not worth the money."
+        }
+      ]
+    }
+  ]
+}
